@@ -1,0 +1,10 @@
+server:
+  port: 0
+
+info:
+  nombre: Mike
+  Apellido: Mosco
+  contacto:
+    telefono: 5658 1111
+    celular: (044) 55 5654 3210
+
