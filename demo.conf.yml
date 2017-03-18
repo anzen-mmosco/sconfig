@@ -8,3 +8,8 @@ info:
     telefono: 5658 1111
     celular: (044) 55 5654 3210
 
+eureka:
+  client:
+    serviceurl:
+      defaultZone: http://localhost:9000/eureka/
+
