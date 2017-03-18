@@ -10,6 +10,6 @@ info:
 
 eureka:
   client:
-    serviceurl:
+    serviceUrl:
       defaultZone: http://localhost:9000/eureka/
 
