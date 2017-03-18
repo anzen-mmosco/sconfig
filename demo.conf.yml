@@ -3,7 +3,7 @@ server:
 
 info:
   nombre: Mike
-  Apellido: Mosco
+  apellido: Mosco
   contacto:
     telefono: 5658 1111
     celular: (044) 55 5654 3210
